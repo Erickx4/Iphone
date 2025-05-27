@@ -1,2 +1,2 @@
 # Iphone
-SIte desenvolvido na aula de produção à  tecnologia web
+SIte desenvolvido na aula de introdução à  tecnologia web
